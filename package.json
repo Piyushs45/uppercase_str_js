@@ -1,0 +1,22 @@
+{
+  "name": "uppercase_str_js",
+  "version": "1.0.0",
+  "description": "To convert the string into uppercase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyushs45/uppercase_str_js.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Piyush Sandhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piyushs45/uppercase_str_js/issues"
+  },
+  "homepage": "https://github.com/Piyushs45/uppercase_str_js#readme"
+}
